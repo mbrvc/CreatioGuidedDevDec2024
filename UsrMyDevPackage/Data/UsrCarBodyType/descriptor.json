@@ -2,7 +2,7 @@
   "Descriptor": {
     "UId": "26069c51-8a79-cd7a-8d91-573b775c4d37",
     "Name": "UsrCarBodyType",
-    "ModifiedOnUtc": "\/Date(1736344097000)\/",
+    "ModifiedOnUtc": "\/Date(1736355753000)\/",
     "InstallType": 0,
     "Schema": {
       "UId": "3f3521c9-0f8f-4219-97e3-b4ed8f260280",
@@ -18,14 +18,14 @@
       },
       {
         "ColumnUId": "736c30a7-c0ec-4fa9-b034-2552b319b633",
-        "IsForceUpdate": false,
+        "IsForceUpdate": true,
         "IsKey": false,
         "ColumnName": "Name",
         "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
       },
       {
         "ColumnUId": "9e53fd7c-dde4-4502-a64c-b9e34148108b",
-        "IsForceUpdate": false,
+        "IsForceUpdate": true,
         "IsKey": false,
         "ColumnName": "Description",
         "DataTypeValueUId": "ddb3a1ee-07e8-4d62-b7a9-d0e618b00fbd"
